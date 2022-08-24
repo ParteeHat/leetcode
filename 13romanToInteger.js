@@ -31,4 +31,3 @@ function convert(value) {
   }
   return total;
 }
-console.log(convert('MMXXII'));
